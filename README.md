@@ -10,6 +10,13 @@
 <!--
 **gustavogodinho/gustavogodinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+My name is Gustavo Godinho! Currently I help companies to design and deliver a cloud-based architecture for their infrastructure and platforms.
+
+- 👨🏻‍💻 Working with 
+
+- 🤘🏻 Ciclismo ennthusiast.
+- 📩 Any help? Send me an [e-mail](mailto:gustavogodinho6@msn.com).
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

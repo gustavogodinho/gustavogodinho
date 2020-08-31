@@ -1,3 +1,10 @@
+# Gustavo Godinho
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)]()
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white)]()
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat&logo=Medium&logoColor=white)]()
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)]()
+
 ### Hi there 👋
 
 <!--

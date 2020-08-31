@@ -12,7 +12,7 @@ My name is Gustavo Godinho! Currently I help companies to design and deliver a c
 - 👨🏻‍💻 Working with 
 
 - 🤘🏻 Ciclismo ennthusiast.
-- 📩 Any help? Send me an [e-mail](mailto:gustavogodinho6@msn.com).
+- 📩 Any help? Send me an e-mail: gustavogodinho6@msn.com
 
 <!--
 **gustavogodinho/gustavogodinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
